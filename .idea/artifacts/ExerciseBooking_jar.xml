@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExerciseBooking:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExerciseBooking_jar</output-path>
+    <root id="archive" name="ExerciseBooking.jar">
+      <element id="module-output" name="ExerciseBooking" />
+      <element id="library" level="project" name="commons-lang3-3" />
+    </root>
+  </artifact>
+</component>
